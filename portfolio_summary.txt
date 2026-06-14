@@ -1,0 +1,8 @@
+STOCK PORTFOLIO SUMMARY
+============================================================
+TCS | Price: ₹3500 | Qty: 10 | Value: ₹35000
+GOOGL | Price: ₹170 | Qty: 5 | Value: ₹850
+TSLA | Price: ₹320 | Qty: 50 | Value: ₹16000
+MSFT | Price: ₹420 | Qty: 500 | Value: ₹210000
+------------------------------------------------------------
+Total Investment Value: ₹261,850
